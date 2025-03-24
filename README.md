@@ -10,7 +10,7 @@
 ### Setup of the Project
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/kavyaa25/Syncthreads-Assignment-.git
+   git clone https://github.com/kavyaa25/Assignment-by-kavya.git
    cd Syncthreads-Assignment-
    ```
 
