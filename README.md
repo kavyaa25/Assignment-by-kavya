@@ -11,7 +11,7 @@
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/kavyaa25/Assignment-by-kavya.git
-   cd Syncthreads-Assignment-
+   cd Assignment-by-kavya
    ```
 
 2. **Install Dependencies:**
